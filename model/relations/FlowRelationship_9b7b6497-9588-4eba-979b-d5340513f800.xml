@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Chilean Undecorated Alert"
+    id="9b7b6497-9588-4eba-979b-d5340513f800">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_38999c52-8d3b-4433-94c7-651705e1babe.xml#38999c52-8d3b-4433-94c7-651705e1babe"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_aa794ec0-09db-4b3d-91a2-f2a11625e283.xml#aa794ec0-09db-4b3d-91a2-f2a11625e283"/>
+</archimate:FlowRelationship>

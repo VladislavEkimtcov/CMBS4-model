@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Single Object Detection"
+    id="e14fc42f-fd87-49fb-8909-c16fca1f0dbc">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_6701868f-4e32-4126-9be0-2213d38437c0.xml#6701868f-4e32-4126-9be0-2213d38437c0"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_3abcadbf-0803-4589-b2f2-ec08784eab7e.xml#3abcadbf-0803-4589-b2f2-ec08784eab7e"/>
+</archimate:FlowRelationship>

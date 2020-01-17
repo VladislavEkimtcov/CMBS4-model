@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="South Pole Undecorated Alert"
+    id="3a8732d2-c76a-45e2-8afc-92e8a310d260">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_08ef1820-633c-46c6-9911-7d900118173f.xml#08ef1820-633c-46c6-9911-7d900118173f"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_aa794ec0-09db-4b3d-91a2-f2a11625e283.xml#aa794ec0-09db-4b3d-91a2-f2a11625e283"/>
+</archimate:FlowRelationship>
