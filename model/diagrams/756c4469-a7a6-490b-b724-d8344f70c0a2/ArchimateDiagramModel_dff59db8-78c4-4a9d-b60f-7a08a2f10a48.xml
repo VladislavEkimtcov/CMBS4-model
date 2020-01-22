@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="South Pole Transient Detection Data Management View"
+    name="CMB-S4Transient Detection Data Management View"
     id="dff59db8-78c4-4a9d-b60f-7a08a2f10a48">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
