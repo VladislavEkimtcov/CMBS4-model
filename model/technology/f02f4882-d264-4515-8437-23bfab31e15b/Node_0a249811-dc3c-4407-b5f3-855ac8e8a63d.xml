@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[Chile] File Storage (Node)"
-    id="0a249811-dc3c-4407-b5f3-855ac8e8a63d"/>
+    id="0a249811-dc3c-4407-b5f3-855ac8e8a63d"
+    documentation="Data storage for the transient processing, currently estimated at approx 1 TB."/>

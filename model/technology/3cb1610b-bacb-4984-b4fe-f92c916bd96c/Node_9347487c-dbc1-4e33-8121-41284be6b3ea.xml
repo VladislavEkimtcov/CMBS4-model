@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[South Pole] Storage (Node)"
-    id="9347487c-dbc1-4e33-8121-41284be6b3ea"/>
+    id="9347487c-dbc1-4e33-8121-41284be6b3ea"
+    documentation="Data storage for the transient processing, currently estimated at approx 1 TB."/>

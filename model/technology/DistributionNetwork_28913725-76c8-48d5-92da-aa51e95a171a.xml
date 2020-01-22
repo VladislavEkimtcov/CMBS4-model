@@ -1,4 +1,5 @@
 <archimate:DistributionNetwork
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Transient Ecosystem (Distribution Network)"
-    id="28913725-76c8-48d5-92da-aa51e95a171a"/>
+    id="28913725-76c8-48d5-92da-aa51e95a171a"
+    documentation="The transient ecossytem is not provided by the project, but is still used by it. The CMB-S4 alert production system originates transient detections and declares them to this ecosystem. The ecosystem also can request sub-threshold detectionprocessing for alerts provided by other observatories."/>

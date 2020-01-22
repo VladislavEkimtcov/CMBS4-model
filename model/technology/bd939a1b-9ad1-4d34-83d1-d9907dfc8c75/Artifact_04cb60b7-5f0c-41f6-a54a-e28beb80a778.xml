@@ -1,4 +1,5 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[US] Offline Map (Artifact)"
-    id="04cb60b7-5f0c-41f6-a54a-e28beb80a778"/>
+    id="04cb60b7-5f0c-41f6-a54a-e28beb80a778"
+    documentation="Maps produced during release processing "/>

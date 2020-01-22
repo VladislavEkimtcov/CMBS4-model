@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[South Pole] Compute (Node)"
-    id="c7af70e3-cbad-4bd8-8704-754bfee8d0bd"/>
+    id="c7af70e3-cbad-4bd8-8704-754bfee8d0bd"
+    documentation="Compute power for the transient detection, the compute must be available on a daily cadance soon after the nightly quality assurance maps are produced."/>

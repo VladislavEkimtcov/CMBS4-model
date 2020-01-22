@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[Chile] Daily QA (Application Function)"
-    id="457aa908-c30a-435c-b37d-21025e911246"/>
+    id="457aa908-c30a-435c-b37d-21025e911246"
+    documentation="An operation that produces daily quality assurance maps, which are input to the transient detection system."/>

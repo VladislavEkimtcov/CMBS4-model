@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[US] Storage (Node)"
-    id="55f3e529-db98-4ea5-86ce-2e008e73e7cd"/>
+    id="55f3e529-db98-4ea5-86ce-2e008e73e7cd"
+    documentation="Data storage for the transient processing, currently estimated at approx 1 TB."/>

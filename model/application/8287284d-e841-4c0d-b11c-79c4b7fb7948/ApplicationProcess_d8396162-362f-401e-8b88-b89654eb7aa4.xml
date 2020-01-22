@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[US] Detect Galaxy Clusters (Application Process)"
-    id="d8396162-362f-401e-8b88-b89654eb7aa4"/>
+    id="d8396162-362f-401e-8b88-b89654eb7aa4"
+    documentation="Software process which detects galaxy clusters, this is a standalone module, all other types of detectins are handled elsewhere."/>

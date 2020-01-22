@@ -4,8 +4,8 @@
     name="South Pole Daily QA Map"
     id="6821ef6d-7a46-4456-b8eb-b8d9544134c1">
   <source
-      xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_6798db3d-5217-489d-ae8d-89155a680dbb.xml#6798db3d-5217-489d-ae8d-89155a680dbb"/>
+      xsi:type="archimate:Artifact"
+      href="Artifact_d40970d4-6206-4284-9b0e-26414f84a079.xml#d40970d4-6206-4284-9b0e-26414f84a079"/>
   <target
       xsi:type="archimate:ApplicationProcess"
       href="ApplicationProcess_08ef1820-633c-46c6-9911-7d900118173f.xml#08ef1820-633c-46c6-9911-7d900118173f"/>

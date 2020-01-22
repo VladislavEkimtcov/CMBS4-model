@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[South Pole] Database (Node)"
-    id="9a6cfd01-15eb-4c58-bf60-d3264bec6be5"/>
+    id="9a6cfd01-15eb-4c58-bf60-d3264bec6be5"
+    documentation="DB for the transient processing, which will hold records of prior detections, this DB may hold  catalogs and other information facilitating transient processing. The technology is TBD, in  particular it is unknown if this is a file-based, SQLite or similar, or is a standalone service similar to postgress."/>

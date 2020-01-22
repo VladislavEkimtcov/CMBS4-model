@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[US] Detect Single Object (Application Process)"
-    id="6701868f-4e32-4126-9be0-2213d38437c0"/>
+    id="6701868f-4e32-4126-9be0-2213d38437c0"
+    documentation="Software process which detects single objects, except for galaxy clusters, which is provided by a separate group."/>

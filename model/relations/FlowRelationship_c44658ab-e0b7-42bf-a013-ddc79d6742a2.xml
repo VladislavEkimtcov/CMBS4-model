@@ -4,8 +4,8 @@
     name="Chilean Daily QA Map"
     id="c44658ab-e0b7-42bf-a013-ddc79d6742a2">
   <source
-      xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_457aa908-c30a-435c-b37d-21025e911246.xml#457aa908-c30a-435c-b37d-21025e911246"/>
+      xsi:type="archimate:Artifact"
+      href="Artifact_b3bac1af-9fc8-4422-8578-3cadf67b5af8.xml#b3bac1af-9fc8-4422-8578-3cadf67b5af8"/>
   <target
       xsi:type="archimate:ApplicationProcess"
       href="ApplicationProcess_38999c52-8d3b-4433-94c7-651705e1babe.xml#38999c52-8d3b-4433-94c7-651705e1babe"/>

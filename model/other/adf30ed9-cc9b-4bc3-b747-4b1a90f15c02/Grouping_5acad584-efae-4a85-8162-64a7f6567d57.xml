@@ -1,4 +1,5 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Transient Distribution Fabric"
-    id="5acad584-efae-4a85-8162-64a7f6567d57"/>
+    id="5acad584-efae-4a85-8162-64a7f6567d57"
+    documentation="The infrastructure provided outside the CMB-S4 project, which provides transient and alert distribution services to the astrophysical and astronomical communities."/>

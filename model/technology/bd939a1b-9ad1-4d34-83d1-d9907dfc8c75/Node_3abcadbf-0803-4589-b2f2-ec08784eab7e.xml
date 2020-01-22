@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[US] Detection DB (Node)"
-    id="3abcadbf-0803-4589-b2f2-ec08784eab7e"/>
+    id="3abcadbf-0803-4589-b2f2-ec08784eab7e"
+    documentation="DB for the transient processing, which will hold records of prior detections, this DB may hold  catalogs and other information facilitating transient processing. The technology is TBD, in  particular it is unknown if this is a file-based, SQLite or similar, or is a standalone service similar to postgress."/>

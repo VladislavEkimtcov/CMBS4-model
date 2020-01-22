@@ -1,4 +1,5 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Chile Site Ops"
-    id="6468c3f2-9bb3-4e0f-9b0c-e675c97d235a"/>
+    name="Chile Site Ops L3 Manager"
+    id="6468c3f2-9bb3-4e0f-9b0c-e675c97d235a"
+    documentation="Person responsible for providing computing provisioning at Chile."/>
