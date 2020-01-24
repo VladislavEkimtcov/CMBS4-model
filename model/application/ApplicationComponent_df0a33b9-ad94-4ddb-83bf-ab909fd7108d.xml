@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&quot;Model&quot; Data Delivery Software (Application Component)"
+    id="df0a33b9-ad94-4ddb-83bf-ab909fd7108d"
+    documentation="This is a controller managing served data. It is provided by a third party"/>
