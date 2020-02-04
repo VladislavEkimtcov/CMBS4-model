@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Chile Behavior to Provisioning Map (copy)"
+    id="cba6ddea-502a-49cb-a507-e23e60875b23">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="515a77e0-4c9f-4e42-85d9-5d537fd8d1ea">
+    <bounds
+        x="110"
+        y="242"
+        width="403"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationProcess"
+        href="ApplicationProcess_38999c52-8d3b-4433-94c7-651705e1babe.xml#38999c52-8d3b-4433-94c7-651705e1babe"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7d72e9ff-e80e-4a73-991c-76866206c914">
+    <bounds
+        x="96"
+        y="360"
+        width="453"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_e9e6d8a2-2b19-452f-bfb3-8f2c6c280f10.xml#e9e6d8a2-2b19-452f-bfb3-8f2c6c280f10"/>
+  </children>
+</archimate:ArchimateDiagramModel>
