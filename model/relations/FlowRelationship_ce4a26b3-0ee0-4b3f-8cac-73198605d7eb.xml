@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Test Daily QA Maps"
+    id="ce4a26b3-0ee0-4b3f-8cac-73198605d7eb">
+  <source
+      xsi:type="archimate:Artifact"
+      href="Artifact_c6242cdf-bdcc-4335-b504-a4356013cfcd.xml#c6242cdf-bdcc-4335-b504-a4356013cfcd"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_00e5db94-b295-4e84-a0a9-daad722f87c8.xml#00e5db94-b295-4e84-a0a9-daad722f87c8"/>
+</archimate:FlowRelationship>
