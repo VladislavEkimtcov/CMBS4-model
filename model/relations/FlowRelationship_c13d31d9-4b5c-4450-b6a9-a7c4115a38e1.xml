@@ -4,8 +4,8 @@
     name="Galaxy Cluster Detection"
     id="c13d31d9-4b5c-4450-b6a9-a7c4115a38e1">
   <source
-      xsi:type="archimate:ApplicationProcess"
-      href="ApplicationProcess_d8396162-362f-401e-8b88-b89654eb7aa4.xml#d8396162-362f-401e-8b88-b89654eb7aa4"/>
+      xsi:type="archimate:Artifact"
+      href="Artifact_04cb60b7-5f0c-41f6-a54a-e28beb80a778.xml#04cb60b7-5f0c-41f6-a54a-e28beb80a778"/>
   <target
       xsi:type="archimate:Node"
       href="Node_3abcadbf-0803-4589-b2f2-ec08784eab7e.xml#3abcadbf-0803-4589-b2f2-ec08784eab7e"/>

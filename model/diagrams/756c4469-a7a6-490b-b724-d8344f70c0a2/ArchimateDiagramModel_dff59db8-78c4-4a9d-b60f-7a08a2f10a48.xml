@@ -45,7 +45,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="ab1cfa31-476c-420a-852d-0d370e8be34d"
-        targetConnections="6198350b-5fc4-4559-9f7a-dacaad360ac7">
+        targetConnections="6198350b-5fc4-4559-9f7a-dacaad360ac7 59c328ca-46f8-4091-ab76-4355c4f6277a">
       <bounds
           x="214"
           y="156"
@@ -101,7 +101,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="dd6aec1a-d608-4d63-a959-7cbdc46e5842"
-        targetConnections="59c328ca-46f8-4091-ab76-4355c4f6277a 6ee43695-6ecd-49c6-ae48-e9aa0f7bc757">
+        targetConnections="6ee43695-6ecd-49c6-ae48-e9aa0f7bc757">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="ac68b596-a9d3-4f8c-914f-80b5cf3b0a3c"
@@ -128,7 +128,7 @@
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="59c328ca-46f8-4091-ab76-4355c4f6277a"
           source="12ada7d9-bed3-4abd-8385-9119aeecf5aa"
-          target="dd6aec1a-d608-4d63-a959-7cbdc46e5842">
+          target="ab1cfa31-476c-420a-852d-0d370e8be34d">
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_3bc81ca8-dc03-4104-b552-60abe584f2c4.xml#3bc81ca8-dc03-4104-b552-60abe584f2c4"/>
@@ -429,7 +429,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="378f1f0a-cfee-4d4d-9117-dd5e0f165e84"
-        targetConnections="8d554e0f-dc13-445d-8b6b-28ef036709fb 7b22bd5d-8766-4f74-bd4b-7ea8cfc7ba9d 418c0e17-8c75-43f6-92dc-4a96ab3c0403 296b6593-8184-49a2-a276-f0c3ac9492f1 5eb2506a-badb-4182-ad9f-36cc2098108c b2888f4f-b1ae-4ba4-bdfb-d0ceb8b484a2">
+        targetConnections="8d554e0f-dc13-445d-8b6b-28ef036709fb 7b22bd5d-8766-4f74-bd4b-7ea8cfc7ba9d 296b6593-8184-49a2-a276-f0c3ac9492f1 5eb2506a-badb-4182-ad9f-36cc2098108c b2888f4f-b1ae-4ba4-bdfb-d0ceb8b484a2 418c0e17-8c75-43f6-92dc-4a96ab3c0403">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="39b1a1ef-ba30-4c64-94fc-fef789b8d8f0"
@@ -497,21 +497,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="502f4611-6688-4efb-9e4b-e60c49138768"
         targetConnections="c7b7dc3a-6ed6-4cf7-b854-8a6d3681fc3a">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="418c0e17-8c75-43f6-92dc-4a96ab3c0403"
-          textPosition="0"
-          source="502f4611-6688-4efb-9e4b-e60c49138768"
-          target="378f1f0a-cfee-4d4d-9117-dd5e0f165e84">
-        <bendpoints
-            startX="210"
-            startY="-21"
-            endX="-48"
-            endY="-51"/>
-        <archimateRelationship
-            xsi:type="archimate:FlowRelationship"
-            href="FlowRelationship_c13d31d9-4b5c-4450-b6a9-a7c4115a38e1.xml#c13d31d9-4b5c-4450-b6a9-a7c4115a38e1"/>
-      </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="41a5ab0c-d465-432a-bf36-e2004c7b043b"
@@ -882,6 +867,21 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="350587d0-02c1-4baf-b598-6d9754e9a1ea"
         targetConnections="5ae116a2-b7b0-4369-8d44-035df51580ae 57c711e9-d1ea-4991-aa79-2ae4d74998f9 41a5ab0c-d465-432a-bf36-e2004c7b043b 5a55e7af-158d-4b35-b07a-0369ae297768">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="418c0e17-8c75-43f6-92dc-4a96ab3c0403"
+          textPosition="0"
+          source="350587d0-02c1-4baf-b598-6d9754e9a1ea"
+          target="378f1f0a-cfee-4d4d-9117-dd5e0f165e84">
+        <bendpoints
+            startX="210"
+            startY="-21"
+            endX="-48"
+            endY="-51"/>
+        <archimateRelationship
+            xsi:type="archimate:FlowRelationship"
+            href="FlowRelationship_c13d31d9-4b5c-4450-b6a9-a7c4115a38e1.xml#c13d31d9-4b5c-4450-b6a9-a7c4115a38e1"/>
+      </sourceConnections>
       <bounds
           x="24"
           y="132"
