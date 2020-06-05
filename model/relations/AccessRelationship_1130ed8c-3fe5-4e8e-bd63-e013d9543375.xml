@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Read n Days"
+    id="1130ed8c-3fe5-4e8e-bd63-e013d9543375"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_bb27f7b5-d1e3-4281-8a37-f0abf8856085.xml#bb27f7b5-d1e3-4281-8a37-f0abf8856085"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_d40970d4-6206-4284-9b0e-26414f84a079.xml#d40970d4-6206-4284-9b0e-26414f84a079"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Write Templates"
+    id="045ab24a-260d-4523-aaa7-af7f670561e3">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_bb27f7b5-d1e3-4281-8a37-f0abf8856085.xml#bb27f7b5-d1e3-4281-8a37-f0abf8856085"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_02ba5a6b-0bd0-4516-a9da-6cf1c5aebafc.xml#02ba5a6b-0bd0-4516-a9da-6cf1c5aebafc"/>
+</archimate:AccessRelationship>

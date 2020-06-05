@@ -1,18 +1,4 @@
 <archimate:ArchimateDiagramModel
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Chile Behavior to Provisioning Map"
-    id="be41bbe8-3640-4136-8a38-74ddc2aec3ee">
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="e8f39472-38b9-4b49-962d-31dc7cb71ceb">
-    <bounds
-        x="84"
-        y="336"
-        width="465"
-        height="115"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_6468c3f2-9bb3-4e0f-9b0c-e675c97d235a.xml#6468c3f2-9bb3-4e0f-9b0c-e675c97d235a"/>
-  </children>
-</archimate:ArchimateDiagramModel>
+    id="be41bbe8-3640-4136-8a38-74ddc2aec3ee"/>
