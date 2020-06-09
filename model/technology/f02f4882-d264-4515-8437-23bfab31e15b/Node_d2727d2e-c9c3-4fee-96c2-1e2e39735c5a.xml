@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Chile] Compute (Node)"
-    id="d2727d2e-c9c3-4fee-96c2-1e2e39735c5a"
-    documentation="Compute power for the transient detection, the compute must be available on a daily cadance soon after the nightly quality assurance maps are produced."/>
