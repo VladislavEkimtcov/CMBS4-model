@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FY2025"
+    id="b6b9db7d-1858-48eb-9c9b-ae60ac598b59">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="d8eb2b61-0aed-4e3b-9c66-376b03a2d5ce">
+    <bounds
+        x="312"
+        y="36"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Plateau"
+        href="Plateau_6d557909-91d4-459f-84c4-2cf500a1065e.xml#6d557909-91d4-459f-84c4-2cf500a1065e"/>
+  </children>
+</archimate:ArchimateDiagramModel>

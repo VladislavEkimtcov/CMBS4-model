@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[US] Skeletal-level Source Data Service (Application Service) (copy)"
+    id="154976e6-427f-4afe-af6b-e56c0c1be05e"
+    documentation="Provide an open and freely available data service quesrying CMB-S4 transient detections in a manner consistent with the mechanisms expected by the community: &#xA;&#xA;* Support queries by interactive and programatic means.&#xA;* In 2020, we would have a base of expectations which is TBD and we need an active opinion on VAO queries suitable for tap&#xA;* Additional data products include cutouts"/>

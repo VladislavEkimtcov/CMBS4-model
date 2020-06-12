@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[South Pole] Skeletal-level Compute (Node)"
+    id="8ae82138-d2a3-43e1-9fe8-35215ea87eee"
+    documentation="Compute power for the transient detection, the compute must be available on a daily cadance soon after the nightly quality assurance maps are produced."/>

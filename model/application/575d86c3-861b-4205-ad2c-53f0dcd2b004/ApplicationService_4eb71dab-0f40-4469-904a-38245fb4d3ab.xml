@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[US] Skeletal-level Accept Sub-threshold Forced Photometry Request (Application Service) (copy)"
+    id="4eb71dab-0f40-4469-904a-38245fb4d3ab"
+    documentation="Portal to accept requests for sub-threshold forced photometry as part of annual processing&#xA;Forced = requested despite signal not being five sigmas above noise level"/>

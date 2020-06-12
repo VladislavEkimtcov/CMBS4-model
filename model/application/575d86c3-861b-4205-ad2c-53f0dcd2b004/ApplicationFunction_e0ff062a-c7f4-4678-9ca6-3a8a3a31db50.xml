@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[South Pole] Skeletal-level Daily QA (Application Function)"
+    id="e0ff062a-c7f4-4678-9ca6-3a8a3a31db50"
+    documentation="An operation that produces daily quality assurance maps, which are input to the transient detection system."/>
