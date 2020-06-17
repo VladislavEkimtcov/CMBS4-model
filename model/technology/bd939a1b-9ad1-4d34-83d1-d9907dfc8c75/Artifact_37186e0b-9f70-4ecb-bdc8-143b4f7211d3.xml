@@ -1,4 +1,5 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[US] Pixels Originating in Chilean Data (Artifact)"
-    id="37186e0b-9f70-4ecb-bdc8-143b4f7211d3"/>
+    id="37186e0b-9f70-4ecb-bdc8-143b4f7211d3"
+    documentation="These are the pixel-level products originating from transient data processing, and may include, for example, maps which are a combination of all modes and high-pass filtered to reduce background noise "/>

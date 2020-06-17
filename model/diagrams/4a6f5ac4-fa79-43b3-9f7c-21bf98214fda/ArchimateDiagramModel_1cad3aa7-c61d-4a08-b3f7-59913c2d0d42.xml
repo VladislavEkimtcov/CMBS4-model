@@ -48,15 +48,6 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_b9344226-3d83-41af-b659-11ff0094cfb1.xml#b9344226-3d83-41af-b659-11ff0094cfb1"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="3e9fb6c3-b462-4d90-9f2d-6d5fade6a244"
-        source="dbcd3f91-e9d4-4565-9024-354b6d5209fa"
-        target="1471528e-c65f-4e55-ba3c-926a2e073777">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_68c8c14c-a3dc-4a90-abbb-2b5134936b03.xml#68c8c14c-a3dc-4a90-abbb-2b5134936b03"/>
-    </sourceConnections>
     <bounds
         x="171"
         y="132"
@@ -71,12 +62,12 @@
       id="4b5509fe-68d4-4500-887e-58bae1b5169f">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="eb1e6d4c-fd91-4c5a-a313-a031ccf72135"
+        id="3e9fb6c3-b462-4d90-9f2d-6d5fade6a244"
         source="4b5509fe-68d4-4500-887e-58bae1b5169f"
-        target="6c0d009a-3839-4f8a-9ab1-677086852a53">
+        target="1471528e-c65f-4e55-ba3c-926a2e073777">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_88986f2c-9944-4358-99ac-c6d716ace06d.xml#88986f2c-9944-4358-99ac-c6d716ace06d"/>
+          href="CompositionRelationship_68c8c14c-a3dc-4a90-abbb-2b5134936b03.xml#68c8c14c-a3dc-4a90-abbb-2b5134936b03"/>
     </sourceConnections>
     <bounds
         x="171"
@@ -86,19 +77,6 @@
     <archimateElement
         xsi:type="archimate:Location"
         href="Location_095c1343-fef2-4c67-8166-5c40a16669df.xml#095c1343-fef2-4c67-8166-5c40a16669df"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="6c0d009a-3839-4f8a-9ab1-677086852a53"
-      targetConnections="eb1e6d4c-fd91-4c5a-a313-a031ccf72135">
-    <bounds
-        x="24"
-        y="430"
-        width="88"
-        height="48"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_e41d0bee-890b-44e1-8fe8-ce6bc16edec0.xml#e41d0bee-890b-44e1-8fe8-ce6bc16edec0"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -131,8 +109,8 @@
       id="1471528e-c65f-4e55-ba3c-926a2e073777"
       targetConnections="3e9fb6c3-b462-4d90-9f2d-6d5fade6a244">
     <bounds
-        x="348"
-        y="136"
+        x="336"
+        y="430"
         width="88"
         height="48"/>
     <archimateElement

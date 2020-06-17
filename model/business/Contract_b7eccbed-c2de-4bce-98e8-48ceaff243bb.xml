@@ -1,0 +1,5 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[US] Data release plan for transients (Contract)"
+    id="b7eccbed-c2de-4bce-98e8-48ceaff243bb"
+    documentation="Identification of the  subset of transient data products to be released ahead of formal data releases. Include subset that is payload for real-time alerts, and data which only will  be served by the Source Data service"/>

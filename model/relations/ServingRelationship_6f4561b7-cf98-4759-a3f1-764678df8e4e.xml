@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forced Photometry Requests"
+    id="6f4561b7-cf98-4759-a3f1-764678df8e4e">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_c2b5d7bc-a2b7-4d16-af8e-3e89cc7963af.xml#c2b5d7bc-a2b7-4d16-af8e-3e89cc7963af"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_d2c61d6c-9236-425e-a1f3-2ab0ecfe282d.xml#d2c61d6c-9236-425e-a1f3-2ab0ecfe282d"/>
+</archimate:ServingRelationship>

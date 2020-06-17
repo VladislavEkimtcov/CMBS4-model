@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[US] Mock Detection Dataset (Artifact)"
+    id="237a3b70-9ba4-4295-a0d6-4a232b92d9f3"
+    documentation="DB for the transient processing, which will hold records of prior detections, this DB may hold  catalogs and other information facilitating transient processing. The technology is TBD, in  particular it is unknown if this is a file-based, SQLite or similar, or is a standalone service similar to postgress."/>

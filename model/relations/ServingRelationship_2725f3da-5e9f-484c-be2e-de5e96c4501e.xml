@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalogs, Files, and Cutouts"
+    id="2725f3da-5e9f-484c-be2e-de5e96c4501e">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_766535f2-9a30-4a13-b4e3-9a20b78e5b25.xml#766535f2-9a30-4a13-b4e3-9a20b78e5b25"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_c2b5d7bc-a2b7-4d16-af8e-3e89cc7963af.xml#c2b5d7bc-a2b7-4d16-af8e-3e89cc7963af"/>
+</archimate:ServingRelationship>

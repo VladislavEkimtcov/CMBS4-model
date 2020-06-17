@@ -1,4 +1,5 @@
 <archimate:Location
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="US Locations (Location)"
-    id="71a6e159-2dfb-4499-a577-69671702dd47"/>
+    id="71a6e159-2dfb-4499-a577-69671702dd47"
+    documentation="Ensemble of major computing sites from DOE and NSF, providing resources to the CMB-S4 MREFC"/>

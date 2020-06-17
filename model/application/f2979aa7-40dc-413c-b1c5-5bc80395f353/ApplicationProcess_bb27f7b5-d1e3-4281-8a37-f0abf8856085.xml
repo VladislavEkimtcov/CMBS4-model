@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[South Pole] Construct South Pole Template Images Pipeline (Application Process)"
     id="bb27f7b5-d1e3-4281-8a37-f0abf8856085"
-    documentation="Construct Template Images Pipeline"/>
+    documentation="This pipeline constructs template maps needed to support difference imaging for transient production."/>
