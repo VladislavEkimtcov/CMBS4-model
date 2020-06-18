@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decorated Alert"
+    id="da34c2cd-f4ba-4de7-900d-cf4c004b196f">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_c9eb9fcc-5d62-4e72-9dba-eff50801045e.xml#c9eb9fcc-5d62-4e72-9dba-eff50801045e"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_9dcbdb1c-575d-406d-a50e-2d55ee627d4e.xml#9dcbdb1c-575d-406d-a50e-2d55ee627d4e"/>
+</archimate:FlowRelationship>

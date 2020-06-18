@@ -174,6 +174,11 @@
             id="dc7ffb7f-a782-439f-9d78-fc0cba9042e5"
             source="b2bcdfd9-a40b-4738-88a8-61b11176340a"
             target="8c6ab421-c6f8-4155-a374-6fedd388a8ff">
+          <bendpoints
+              startX="-174"
+              startY="12"
+              endX="162"
+              endY="15"/>
           <archimateRelationship
               xsi:type="archimate:FlowRelationship"
               href="FlowRelationship_d3658912-24cc-4e9c-ab5d-5cd0a96de543.xml#d3658912-24cc-4e9c-ab5d-5cd0a96de543"/>
@@ -218,7 +223,7 @@
             x="156"
             y="96"
             width="120"
-            height="55"/>
+            height="73"/>
         <archimateElement
             xsi:type="archimate:ApplicationProcess"
             href="ApplicationProcess_cbd04329-eb35-4b15-aae2-6fb6f26ead8d.xml#cbd04329-eb35-4b15-aae2-6fb6f26ead8d"/>

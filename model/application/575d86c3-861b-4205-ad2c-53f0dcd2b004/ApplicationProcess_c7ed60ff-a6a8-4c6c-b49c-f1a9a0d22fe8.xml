@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[US] Skeletal-level Offline Single Source Detection (Application Process)"
     id="c7ed60ff-a6a8-4c6c-b49c-f1a9a0d22fe8"
-    documentation="Software process which detects single objects, except for galaxy clusters, which is provided by a separate group."/>
+    documentation="Software process which detects single sources, except for galaxy clusters, which is provided by a separate group, along with the comparisont of the code to the requirements"/>
