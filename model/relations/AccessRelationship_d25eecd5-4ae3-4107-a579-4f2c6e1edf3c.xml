@@ -2,11 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Decorated Alert"
-    id="dd29ed49-b8c7-4f9a-9599-376a8a6f2064">
+    id="d25eecd5-4ae3-4107-a579-4f2c6e1edf3c">
   <source
       xsi:type="archimate:ApplicationProcess"
-      href="ApplicationProcess_c9eb9fcc-5d62-4e72-9dba-eff50801045e.xml#c9eb9fcc-5d62-4e72-9dba-eff50801045e"/>
+      href="ApplicationProcess_aa794ec0-09db-4b3d-91a2-f2a11625e283.xml#aa794ec0-09db-4b3d-91a2-f2a11625e283"/>
   <target
       xsi:type="archimate:Artifact"
-      href="Artifact_16b8c1ca-818f-4f09-8d03-81444cd70229.xml#16b8c1ca-818f-4f09-8d03-81444cd70229"/>
+      href="Artifact_97fd94fd-285a-4064-bac8-8fc217a8d5b9.xml#97fd94fd-285a-4064-bac8-8fc217a8d5b9"/>
 </archimate:AccessRelationship>

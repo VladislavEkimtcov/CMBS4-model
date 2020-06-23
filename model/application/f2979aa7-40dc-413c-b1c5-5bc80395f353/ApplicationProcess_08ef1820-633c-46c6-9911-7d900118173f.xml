@@ -1,5 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[South Pole] Detect South Pole Transients (Application Process)"
+    name="[South Pole] Detect South Pole Sources &amp; Transients (Application Process)"
     id="08ef1820-633c-46c6-9911-7d900118173f"
     documentation="Perform transient detection at the South Pole, forward raw transients to the US. "/>
