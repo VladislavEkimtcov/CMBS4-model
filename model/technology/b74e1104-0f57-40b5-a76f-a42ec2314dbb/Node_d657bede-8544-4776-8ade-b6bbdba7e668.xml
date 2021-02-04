@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[US] Skeletal-level Storage (Node)"
-    id="d657bede-8544-4776-8ade-b6bbdba7e668"
-    documentation="Data storage for the transient processing, currently estimated at approx 1 TB."/>
