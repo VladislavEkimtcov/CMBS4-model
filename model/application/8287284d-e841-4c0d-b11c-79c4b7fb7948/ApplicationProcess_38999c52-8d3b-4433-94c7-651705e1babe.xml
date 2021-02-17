@@ -1,5 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[US] Detect Chilean Sources &amp; Transients (Application Process)"
+    name="[US] Chilean Transient Pipeline Processing (Application Process)"
     id="38999c52-8d3b-4433-94c7-651705e1babe"
     documentation="Perform transient detection of chilean transients. It happens in the US.&#xA;"/>

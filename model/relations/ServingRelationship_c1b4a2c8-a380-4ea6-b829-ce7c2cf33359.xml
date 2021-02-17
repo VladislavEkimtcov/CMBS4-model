@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alerts"
     id="c1b4a2c8-a380-4ea6-b829-ce7c2cf33359">
   <source
       xsi:type="archimate:CommunicationNetwork"

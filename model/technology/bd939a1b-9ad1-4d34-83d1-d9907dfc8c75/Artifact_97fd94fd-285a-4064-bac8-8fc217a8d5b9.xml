@@ -1,5 +1,0 @@
-<archimate:Artifact
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[US] Detection Dataset (Artifact)"
-    id="97fd94fd-285a-4064-bac8-8fc217a8d5b9"
-    documentation="Contains maps synthesized from original offline maps, catalogs of detections, keepign provenance and metadata (bookkeeping), and with the expectation of the same time granularity of products as the original transient detections."/>

@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transiet Transmission Records"
+    id="eb1024e2-1fe3-4cca-8e2e-699426b26749">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_aa794ec0-09db-4b3d-91a2-f2a11625e283.xml#aa794ec0-09db-4b3d-91a2-f2a11625e283"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_bbecb3b3-3b7c-4e75-a4ad-cb2ef01e407d.xml#bbecb3b3-3b7c-4e75-a4ad-cb2ef01e407d"/>
+</archimate:AccessRelationship>
