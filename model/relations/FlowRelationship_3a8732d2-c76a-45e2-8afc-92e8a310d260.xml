@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="South Pole Undecorated Alert"
+    name="South Pole Undecorated Alerts"
     id="3a8732d2-c76a-45e2-8afc-92e8a310d260">
   <source
       xsi:type="archimate:ApplicationProcess"
