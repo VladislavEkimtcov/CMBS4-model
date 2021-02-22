@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[US] Internal Distribution Service (Application Service)"
+    name="[US] Internal Distribution Service"
     id="766535f2-9a30-4a13-b4e3-9a20b78e5b25"
     documentation="Provide an open and freely available data service quesrying CMB-S4 transient detections in a manner consistent with the mechanisms expected by the community: &#xA;&#xA;* Support queries by interactive and programatic means.&#xA;* In 2020, we would have a base of expectations which is TBD and we need an active opinion on VAO queries suitable for tap&#xA;* Additional data products include cutouts"/>

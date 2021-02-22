@@ -1,5 +1,5 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[South Pole] Transient Dataset Cache (Artifact)"
+    name="[South Pole] Transient Dataset Cache"
     id="02ba5a6b-0bd0-4516-a9da-6cf1c5aebafc"
     documentation="This is a collection of all data that is specific to South Pole transient processing. It includes inputs and outputs, pixel-level data, catalog data and misc data.&#xA;"/>
