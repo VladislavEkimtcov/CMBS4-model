@@ -180,7 +180,7 @@
             x="12"
             y="24"
             width="120"
-            height="61"/>
+            height="73"/>
         <archimateElement
             xsi:type="archimate:Artifact"
             href="Artifact_d40970d4-6206-4284-9b0e-26414f84a079.xml#d40970d4-6206-4284-9b0e-26414f84a079"/>
@@ -227,14 +227,13 @@
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="8338a49a-41a3-4623-a3ec-b04ac2bedbf4"
-            textPosition="0"
             source="8c957b63-b42f-439f-9bde-4a553b4d2693"
             target="2983a55c-3fa0-439a-aacf-964e26b86c23">
           <bendpoints
-              startX="144"
-              startY="-5"
-              endX="-12"
-              endY="-247"/>
+              startX="175"
+              startY="-16"
+              endX="12"
+              endY="-228"/>
           <archimateRelationship
               xsi:type="archimate:FlowRelationship"
               href="FlowRelationship_3a8732d2-c76a-45e2-8afc-92e8a310d260.xml#3a8732d2-c76a-45e2-8afc-92e8a310d260"/>

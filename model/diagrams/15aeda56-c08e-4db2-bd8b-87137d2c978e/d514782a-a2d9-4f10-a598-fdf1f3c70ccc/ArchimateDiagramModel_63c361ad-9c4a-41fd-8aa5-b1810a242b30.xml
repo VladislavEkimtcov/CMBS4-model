@@ -51,33 +51,11 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="b2f2e7ff-a47c-42b2-859d-7e7ab4adc912"
         targetConnections="de913145-1fb2-4167-8d3c-55c621765ee6">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="10b67d43-6b87-4878-a706-5555730b3c20"
-          source="b2f2e7ff-a47c-42b2-859d-7e7ab4adc912"
-          target="9d07f6c2-bac0-4b52-8efb-094fc05677c3">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_eb9b26d4-dd9c-4564-8c8a-7d0b5aadb6d3.xml#eb9b26d4-dd9c-4564-8c8a-7d0b5aadb6d3"/>
-      </sourceConnections>
       <bounds
           x="13"
           y="114"
           width="157"
           height="217"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="9d07f6c2-bac0-4b52-8efb-094fc05677c3"
-          targetConnections="10b67d43-6b87-4878-a706-5555730b3c20 0486f7c3-e4f7-4e9d-ad0f-67e479849077">
-        <bounds
-            x="12"
-            y="108"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:Artifact"
-            href="Artifact_97224702-d6f2-4820-8903-e4606c0d96ef.xml#97224702-d6f2-4820-8903-e4606c0d96ef"/>
-      </children>
       <archimateElement
           xsi:type="archimate:Grouping"
           href="Grouping_ce772100-cc95-44ce-bd00-f435f5f9dce5.xml#ce772100-cc95-44ce-bd00-f435f5f9dce5"/>
@@ -122,15 +100,6 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="bf719b1b-d305-4141-9f20-913d65a22599"
           targetConnections="f8e81ff9-53fb-4ecf-8b9e-3c9444ee36f0">
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="0486f7c3-e4f7-4e9d-ad0f-67e479849077"
-            source="bf719b1b-d305-4141-9f20-913d65a22599"
-            target="9d07f6c2-bac0-4b52-8efb-094fc05677c3">
-          <archimateRelationship
-              xsi:type="archimate:AccessRelationship"
-              href="AccessRelationship_cf741bfe-6cc6-4eed-b32a-9232ff7a194b.xml#cf741bfe-6cc6-4eed-b32a-9232ff7a194b"/>
-        </sourceConnections>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="5f285420-7d01-48bb-8e7f-24012ee3d800"
