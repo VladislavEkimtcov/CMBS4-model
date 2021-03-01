@@ -1,5 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[South Pole] Daily QA (Application Function)"
+    name="[Pole] Daily QA (Application Function)"
     id="6798db3d-5217-489d-ae8d-89155a680dbb"
     documentation="An operation that produces daily quality assurance maps, which are input to the transient detection system."/>

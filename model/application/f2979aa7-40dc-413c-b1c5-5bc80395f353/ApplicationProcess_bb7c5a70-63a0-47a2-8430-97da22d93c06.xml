@@ -1,5 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[South Pole] Matched Filter Pipeline (Application Process)"
+    name="[Pole] Matched Filter Pipeline (Application Process)"
     id="bb7c5a70-63a0-47a2-8430-97da22d93c06"
     documentation="Compute Match filter used to diminish image artifacts. "/>
