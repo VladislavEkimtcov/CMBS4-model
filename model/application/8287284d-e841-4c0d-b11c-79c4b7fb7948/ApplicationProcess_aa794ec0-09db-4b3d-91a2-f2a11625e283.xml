@@ -1,5 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[US] Decorate and Record Process"
+    name="[US] Distribution"
     id="aa794ec0-09db-4b3d-91a2-f2a11625e283"
     documentation="Perform any transformations needed to transform raw alert detections into format acceptable to the Transient Ecossystem. Also, record transients into the historical database for community use. "/>
