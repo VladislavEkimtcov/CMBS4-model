@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FINAL CMB-S4 South Pole Transient Detection Data Management View"
+    name="FINAL CMB-S4 Pole Transient Detection Data Management View"
     id="e03669ae-9fc8-4b77-ad19-c8722ff3e0cd">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -211,11 +211,20 @@
               xsi:type="archimate:FlowRelationship"
               href="FlowRelationship_3bc81ca8-dc03-4104-b552-60abe584f2c4.xml#3bc81ca8-dc03-4104-b552-60abe584f2c4"/>
         </sourceConnections>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="d176c6c4-3949-4c98-bb4c-f809d1522cf1"
+            source="8d97fcf6-2794-438c-967f-1899a437c85b"
+            target="2983a55c-3fa0-439a-aacf-964e26b86c23">
+          <archimateRelationship
+              xsi:type="archimate:FlowRelationship"
+              href="FlowRelationship_c99aae9a-0f10-43bd-8f55-181074b9537c.xml#c99aae9a-0f10-43bd-8f55-181074b9537c"/>
+        </sourceConnections>
         <bounds
-            x="168"
-            y="138"
-            width="132"
-            height="91"/>
+            x="360"
+            y="144"
+            width="97"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:ApplicationProcess"
             href="ApplicationProcess_a224eea9-dc8f-4862-a2e6-e072440b2378.xml#a224eea9-dc8f-4862-a2e6-e072440b2378"/>
@@ -285,9 +294,9 @@
               href="AccessRelationship_3e78d06b-37a8-4aa8-a1b1-745d1f3e3951.xml#3e78d06b-37a8-4aa8-a1b1-745d1f3e3951"/>
         </sourceConnections>
         <bounds
-            x="324"
+            x="204"
             y="36"
-            width="157"
+            width="120"
             height="86"/>
         <archimateElement
             xsi:type="archimate:ApplicationProcess"
@@ -307,7 +316,7 @@
               href="FlowRelationship_46b0eb50-9caa-47f5-a97d-96c2f2b015bb.xml#46b0eb50-9caa-47f5-a97d-96c2f2b015bb"/>
         </sourceConnections>
         <bounds
-            x="348"
+            x="204"
             y="156"
             width="120"
             height="55"/>
@@ -352,7 +361,7 @@
               href="AccessRelationship_de28bcde-bbb0-4b6e-afad-86da0f2ce78d.xml#de28bcde-bbb0-4b6e-afad-86da0f2ce78d"/>
         </sourceConnections>
         <bounds
-            x="348"
+            x="204"
             y="240"
             width="120"
             height="85"/>
@@ -363,7 +372,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="2983a55c-3fa0-439a-aacf-964e26b86c23"
-          targetConnections="8338a49a-41a3-4623-a3ec-b04ac2bedbf4 a2b77604-dfe6-4c2a-ae1b-552c68c7a62b">
+          targetConnections="8338a49a-41a3-4623-a3ec-b04ac2bedbf4 a2b77604-dfe6-4c2a-ae1b-552c68c7a62b d176c6c4-3949-4c98-bb4c-f809d1522cf1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="77d417d2-7acf-4309-b95d-77caaeea80d3"
@@ -379,9 +388,9 @@
               href="FlowRelationship_8fc8ef34-eb6a-4967-a48e-9d1db41cb125.xml#8fc8ef34-eb6a-4967-a48e-9d1db41cb125"/>
         </sourceConnections>
         <bounds
-            x="480"
+            x="420"
             y="258"
-            width="169"
+            width="229"
             height="67"/>
         <archimateElement
             xsi:type="archimate:CommunicationNetwork"

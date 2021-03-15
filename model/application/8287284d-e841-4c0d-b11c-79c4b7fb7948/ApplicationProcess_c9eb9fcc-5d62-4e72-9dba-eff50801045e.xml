@@ -1,5 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[US] Skeletal-level Detect South Pole Sources &amp; Transients (Application Process)"
+    name="[US] Skeletal-level Detect South Sources &amp; Transients (Application Process)"
     id="c9eb9fcc-5d62-4e72-9dba-eff50801045e"
     documentation="Perform transient detection on mock South Pole Data, connect to mock US infrastructure, noting how well the requirements are met"/>
