@@ -43,6 +43,15 @@
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-2856b14b71d44b82999a0cc54c2993ef.xml#id-2856b14b71d44b82999a0cc54c2993ef"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-9492f10549e04b33a2b91c47db5b21bb"
+        source="id-4ec0330e554640d1a60cc48d5f66352b"
+        target="id-4d6f945d10454c6298ba1bf4f204d72f">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-5f555ff67cec4e8c8e05bed96038f3a1.xml#id-5f555ff67cec4e8c8e05bed96038f3a1"/>
+    </sourceConnections>
     <bounds
         x="48"
         y="216"
@@ -55,7 +64,7 @@
       <bounds
           x="24"
           y="60"
-          width="133"
+          width="157"
           height="73"/>
       <archimateElement
           xsi:type="archimate:Location"
@@ -66,9 +75,9 @@
         id="id-ac554711bbb741de8b6377253113a9b2"
         targetConnections="id-7a7544ccb5f54b87b7d2dd6e955834aa">
       <bounds
-          x="168"
-          y="60"
-          width="120"
+          x="24"
+          y="144"
+          width="157"
           height="73"/>
       <archimateElement
           xsi:type="archimate:Location"
@@ -79,13 +88,26 @@
         id="id-e22fb9e38eb94746aa3637c18eb66567"
         targetConnections="id-782da29831504006b2d0942f469f0550">
       <bounds
-          x="312"
+          x="264"
           y="60"
-          width="120"
+          width="157"
           height="73"/>
       <archimateElement
           xsi:type="archimate:Location"
           href="Location_id-078842efbccb44adb1af0682f552f82c.xml#id-078842efbccb44adb1af0682f552f82c"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-4d6f945d10454c6298ba1bf4f204d72f"
+        targetConnections="id-9492f10549e04b33a2b91c47db5b21bb">
+      <bounds
+          x="264"
+          y="144"
+          width="157"
+          height="73"/>
+      <archimateElement
+          xsi:type="archimate:Location"
+          href="Location_id-ff74c827acb740d3ad8b07ab71fef501.xml#id-ff74c827acb740d3ad8b07ab71fef501"/>
     </children>
     <archimateElement
         xsi:type="archimate:Location"
