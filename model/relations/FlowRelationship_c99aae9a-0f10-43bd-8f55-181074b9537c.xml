@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&quot;trickle&quot;"
+    id="c99aae9a-0f10-43bd-8f55-181074b9537c">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_a224eea9-dc8f-4862-a2e6-e072440b2378.xml#a224eea9-dc8f-4862-a2e6-e072440b2378"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_690ca879-0e84-4bd6-8ae6-7b0b3724a6d7.xml#690ca879-0e84-4bd6-8ae6-7b0b3724a6d7"/>
+</archimate:FlowRelationship>
