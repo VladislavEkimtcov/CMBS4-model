@@ -1,4 +1,5 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[US] Transient Transmission Records"
-    id="bbecb3b3-3b7c-4e75-a4ad-cb2ef01e407d"/>
+    name="[US] Transient  Records Dataset "
+    id="bbecb3b3-3b7c-4e75-a4ad-cb2ef01e407d"
+    documentation="Transient Recods hold records of Transient detections made by the Transient Pipeline.&#xA;The records include everyting sent to to the US Transient Ecosystem. &#xA;These Records Mayinclude detections whose quality is deemed unsuitable for public distribution, and other detection &#xA;deemed proprietary oby collaboration policy.&#xA;"/>

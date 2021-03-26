@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CMB-S4 Collaboration (Role)"
-    id="c2b5d7bc-a2b7-4d16-af8e-3e89cc7963af"/>
+    id="c2b5d7bc-a2b7-4d16-af8e-3e89cc7963af"
+    documentation="The collaboration will haev &#xA;- the same access to Public Alerts as the publich has "/>

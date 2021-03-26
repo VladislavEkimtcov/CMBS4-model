@@ -1,7 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Transient Transmission Records"
+    name="Transient  Records"
     id="eb1024e2-1fe3-4cca-8e2e-699426b26749">
   <source
       xsi:type="archimate:ApplicationProcess"
