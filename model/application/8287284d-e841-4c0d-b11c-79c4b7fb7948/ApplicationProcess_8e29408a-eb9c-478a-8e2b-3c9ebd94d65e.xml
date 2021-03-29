@@ -1,5 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[US] Skeletal-level Detect Chilean Sources &amp; Transients (Application Process)"
+    name="[US] Skeletal-level Detect Atacama Sources &amp; Transients (Application Process)"
     id="8e29408a-eb9c-478a-8e2b-3c9ebd94d65e"
     documentation="Perform transient detection of chilean transients from mock Chilean instruments, noting how well the requirements are met. It happens in the US.&#xA;"/>

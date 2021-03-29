@@ -1,7 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Catalogs, Files, and Cutouts"
+    name="Catalogs and Files"
     id="bb58657a-e30c-483f-9e66-3ef6f6bbb281">
   <source
       xsi:type="archimate:ApplicationService"

@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Low Bandwidth Channels (Communication Network)"
+    id="690ca879-0e84-4bd6-8ae6-7b0b3724a6d7"
+    documentation="This is a channel consisting of whatever bandwidth is available at the time Pole Undecorated Alerts are produced.  In the current baseline it may be the Iridium Multi-Channel System (IMCS), which is a set of channel-bonded 32 baud links."/>

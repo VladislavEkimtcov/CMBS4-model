@@ -1,4 +1,5 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[Pole] Supporting Maps"
-    id="cccbb62b-679d-424d-93a9-4d90de18cb98"/>
+    id="cccbb62b-679d-424d-93a9-4d90de18cb98"
+    documentation="These are maps (orginating in TBD places) that are input to the suporting pipelines. "/>

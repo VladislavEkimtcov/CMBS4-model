@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Catalog Files and Cutouts"
+    name="Catalogs and Files"
     id="1002d375-d059-4b0b-9982-65755021da7d">
   <source
       xsi:type="archimate:Artifact"

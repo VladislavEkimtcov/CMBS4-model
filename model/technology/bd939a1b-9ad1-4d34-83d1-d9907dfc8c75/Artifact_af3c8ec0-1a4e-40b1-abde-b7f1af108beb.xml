@@ -1,4 +1,5 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[US] Overall Transient Archive"
-    id="af3c8ec0-1a4e-40b1-abde-b7f1af108beb"/>
+    id="af3c8ec0-1a4e-40b1-abde-b7f1af108beb"
+    documentation="The Overall Tranisent Archive is provided by the project to store the persistent products of tranisent data priduction, and make these products available internally to the project and to the Science Analysis Groups. "/>
