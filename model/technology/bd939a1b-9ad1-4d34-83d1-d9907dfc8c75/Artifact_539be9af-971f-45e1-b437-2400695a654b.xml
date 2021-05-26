@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[US] Chilean Transient Dataset Cache"
     id="539be9af-971f-45e1-b437-2400695a654b"
-    documentation="These products include the detection maps synthesized from the Chilean Quality Assurance Maps, the record of all detections, including undecorated alerts, housekeepng and provenance data."/>
+    documentation="These products include the detection maps synthesized from the Chilean Observation Maps, the record of all detections, including undecorated alerts, housekeepng and provenance data. Also contains the Quick Look source masks"/>
