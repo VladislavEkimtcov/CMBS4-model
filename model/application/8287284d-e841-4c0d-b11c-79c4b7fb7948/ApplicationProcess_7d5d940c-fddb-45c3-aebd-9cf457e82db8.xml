@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[US] Supporting Transient Pipelines"
-    id="7d5d940c-fddb-45c3-aebd-9cf457e82db8"/>
+    name="[US] Supporting Transient Pipelines for Pole Transients"
+    id="7d5d940c-fddb-45c3-aebd-9cf457e82db8"
+    documentation="PIpelined to produce Pole version of the the Quick Look Source Mask, DIffernece Imaging Templates, MOdel for Object Detection.&#xA;These run occaisonally as needed. "/>

@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Alerts"
+    name="Alerts*"
     id="f7fe472a-6407-4f6e-8486-29678e08bbf5">
   <source
       xsi:type="archimate:CommunicationNetwork"

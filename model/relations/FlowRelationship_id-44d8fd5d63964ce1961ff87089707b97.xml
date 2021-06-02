@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Pole Undecorated Alerts"
+    name="Pole Undecorated Alerts*"
     id="id-44d8fd5d63964ce1961ff87089707b97">
   <source
       xsi:type="archimate:ApplicationProcess"

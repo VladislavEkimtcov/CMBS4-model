@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Chilean Undecorated Alerts"
+    name="Chilean Undecorated Alerts*"
     id="9b7b6497-9588-4eba-979b-d5340513f800">
   <source
       xsi:type="archimate:ApplicationProcess"

@@ -1,8 +1,8 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Transient  Records"
-    id="eb1024e2-1fe3-4cca-8e2e-699426b26749">
+    name="Alerts"
+    id="id-e828a2ad7d7640409fa68aea91ca3b17">
   <source
       xsi:type="archimate:ApplicationProcess"
       href="ApplicationProcess_aa794ec0-09db-4b3d-91a2-f2a11625e283.xml#aa794ec0-09db-4b3d-91a2-f2a11625e283"/>

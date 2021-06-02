@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Decorated Alert"
+    name="Decorated Alert*"
     id="f139b19c-96db-429b-9cae-4267c79c3ce6">
   <source
       xsi:type="archimate:ApplicationProcess"
